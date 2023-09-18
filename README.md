@@ -66,8 +66,8 @@ I'm highly motivated by problem-solving.<br>
 <img src="https://github-readme-medium.vercel.app/?username=sam.ryan101"></a><br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsahm&show_icons=true&theme=transparent"/></a>
 </div>
-<a href='https://www.linkedin.com/in/sam-ryan-6144587a/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.codewars.com/users/iamsahm" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+<a href='https://www.linkedin.com/in/sam-ryan-6144587a/'><img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.codewars.com/users/iamsahm" target="_blank"><img height="20em" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 <img height="20em" src="https://img.shields.io/github/followers/iamsahm.svg?style=social&label=Follow&maxAge=2592000">
 
 </div>
