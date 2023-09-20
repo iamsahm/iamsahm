@@ -2,7 +2,7 @@
 <h1>Hello, my name is Sam and I'm a full stack software developer</h1>
 <br><a  href='https://github.com/iamsahm/gig-list'> I'm currently exploring Node and React in Javascript. </a><br>
 I'm highly motivated by problem-solving.<br>
-<b><a  href="https://github.com/iamsahm/CV">Click here for more things about me!</a></b><br>
+<b><a  href="https://iamsahm.github.io/CV/">Click here for more things about me!</a></b><br>
 <a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br>
 
 <div className="experience" data-testid="experience" style="display: inline_block" >
