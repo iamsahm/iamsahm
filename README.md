@@ -5,7 +5,7 @@ I'm highly motivated by problem-solving.<br>
 <b><a  href="https://iamsahm.github.io/CV/">Click here for more things about me!</a></b><br>
 <a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br>
 
-<div className="experience" data-testid="experience" style="display: inline_block" >
+<div className="experience" style="display: inline_block" >
             <img height='30' width='40'
                 data-testid="javascript"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -58,6 +58,14 @@ I'm highly motivated by problem-solving.<br>
                 <img height='30' width='40'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
                     alt="jest"
+                />
+                <img height='30' width='40'
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                    alt="php"
+                />
+                <img height='30' width='40'
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"
+                    alt="php"
                 />
         </div>
         <br>
