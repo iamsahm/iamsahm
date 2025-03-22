@@ -1,11 +1,26 @@
 <div align="center" >
 <h1>Hello, my name is Sam and I'm a software developer</h1>
-<br> I'm currently <a  href='https://www.devonshire-motors.co.uk/'>working with Next.js (TypeScript)</a> and <a href='www.drivvn.com'>writing helpers in Python. </a><br>
+<br><br> I'm currently <a  href='https://www.devonshire-motors.co.uk/'>working with Next.js (TypeScript)</a> and <a href='www.drivvn.com'>writing helpers in Python. </a><br>
 I'm highly motivated by problem-solving.<br>
 <b><a  href="https://iamsahm.github.io/CV/">Click here for more things about me</a></b><br>
-<a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br>
+<a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br><br>
 </a>
-<div className="experience" style="display: inline_block" >            
+<div className="experience" style="display: inline_block" >     
+            <img height='30' width='40'
+                data-testid="typescript"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                alt="typescript"
+            />
+            <img height='30' width='40'
+                data-testid="nextjs"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+                alt="nextjs"
+            />
+            <img height='30' width='40'
+                data-testid="graphql"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg"
+                alt="graphql"
+            />
             <img height='30' width='40'
                 data-testid="javascript"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
