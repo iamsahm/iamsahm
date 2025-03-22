@@ -18,9 +18,9 @@ I'm highly motivated by problem-solving.<br>
             />
             <img height='30' width='40'
                 data-testid="graphql"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/graphql.svg"
                 alt="graphql"
-            />
+            >
             <img height='30' width='40'
                 data-testid="javascript"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -61,8 +61,6 @@ I'm highly motivated by problem-solving.<br>
         </div>
         <br>
         <div style='display: block'>
-<a href='https://medium.com/@sam.ryan101'>
-<img src="https://github-readme-medium.vercel.app/?username=sam.ryan101"></a><br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsahm&show_icons=true&theme=transparent"/></a>
 </div>
 <a href='https://www.linkedin.com/in/sam-ryan-6144587a/'><img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
