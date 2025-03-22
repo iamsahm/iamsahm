@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Hello, my name is Sam and I'm a full stack software developer</h1>
-<br><a  href='https://github.com/iamsahm/gig-list'> I'm currently exploring Node and React in Javascript. </a><br>
+<h1>Hello, my name is Sam and I'm a software developer</h1>
+<br><a  href='https://github.com/iamsahm/gig-list'> I'm currently working with Next.js (TypeScript) and writing helpers in Python. </a><br>
 I'm highly motivated by problem-solving.<br>
 <b><a  href="https://iamsahm.github.io/CV/">Click here for more things about me</a></b><br>
 <a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br>
@@ -28,36 +28,12 @@ I'm highly motivated by problem-solving.<br>
                     alt="react"
                 />
                 <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-                    alt="css"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-                    alt="html"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-                    alt="mongo db"
-                />
-                <img height='30' width='40'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
                     alt="postgres"
                 />
                 <img height='30' width='40'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
                     alt="python"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-                    alt="flask"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-                    alt="github"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-                    alt="jest"
                 />
                 <img height='30' width='40'
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
