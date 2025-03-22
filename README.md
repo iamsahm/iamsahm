@@ -1,11 +1,11 @@
-<div align="center">
+<div align="center" style=" line-height: 2.5">
 <h1>Hello, my name is Sam and I'm a software developer</h1>
 <br><a  href='https://github.com/iamsahm/gig-list'> I'm currently working with Next.js (TypeScript) and writing helpers in Python. </a><br>
 I'm highly motivated by problem-solving.<br>
 <b><a  href="https://iamsahm.github.io/CV/">Click here for more things about me</a></b><br>
 <a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br>
 
-<div className="experience" style="display: inline_block; line-height: 2.5" >            
+<div className="experience" style="display: inline_block" >            
             <img height='30' width='40'
                 data-testid="javascript"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
