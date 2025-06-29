@@ -1,5 +1,5 @@
 <div align="center" >
-<h1>Hello, my name is Sam and I'm a software developer</h1>
+<h1>Hello, i'm Sam</h1>
 <br><br> I'm currently <a  href='https://www.devonshire-motors.co.uk/'>working with Next.js (TypeScript)</a> and <a href='www.drivvn.com'>writing helpers in Python. </a><br>
 I'm highly motivated by problem-solving.<br>
 <b><a  href="https://iamsahm.github.io/CV/">Click here for more things about me</a></b><br>
