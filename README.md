@@ -1,7 +1,7 @@
 <div align="center" >
 <h1>Hi, i'm Sam</h1>
 <br><br> I'm currently <a  href='https://store.leasys.com/nl/private'>working with Next.js (TypeScript)</a> and <a href='www.drivvn.com'>writing org-wide agentic development flows. </a><br>
-I'm highly motivated by [problem-solving](https://train.samholiday.co.uk/).<br>
+I'm highly motivated by <a style="text-decoration:none" href='https://train.samholiday.co.uk'>problem-solving</a>.<br>
 <a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br><br>
 </a>
 <div className="experience" style="display: inline_block" >     
