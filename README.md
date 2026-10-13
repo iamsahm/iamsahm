@@ -4,60 +4,7 @@
 I'm highly motivated by <a style="text-decoration:none" href='https://train.samholiday.co.uk'>problem-solving</a>.<br>
 <a style="text-decoration:none" href='http://www.github.com/iamsahm'>I love working with people and collaborating on projects, please get in touch if you have something you'd like to work on together!<br><br>
 </a>
-<div className="experience" style="display: inline_block" >     
-            <img height='30' width='40'
-                data-testid="typescript"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-                alt="typescript"
-            />
-            <img height='30' width='40'
-                data-testid="nextjs"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-                alt="nextjs"
-            />
-            <img height='30' width='40'
-                data-testid="graphql"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/graphql.svg"
-                alt="graphql"
-            >
-            <img height='30' width='40'
-                data-testid="javascript"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                alt="javascript"
-            />
-            <img height='30' width='40'
-                data-testid="npm"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-                alt="npm"/>
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                    alt="nodejs"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-                    alt="express"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                    alt="react"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-                    alt="postgres"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                    alt="python"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                    alt="php"
-                />
-                <img height='30' width='40'
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"
-                    alt="php"
-                />
-        </div>
+
         <br>
         <div style='display: block'>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsahm&show_icons=true&theme=transparent"/></a>
